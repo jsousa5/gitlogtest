@@ -1,0 +1,3 @@
+[submodule "fi-ci-cd-misc"]
+	path = libs/misc
+	url = https://github.com/octocat/Hello-World.git
